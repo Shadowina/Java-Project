@@ -1,1 +1,2 @@
-The GUI folder contains the Mock up UI Component.
+The GUI folder contains the Mockup UI Component.
+I mistakenly deleted the first user-registration window and I re-uploaded it back.
