@@ -1,0 +1,178 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "CustomerProfileView",
+      "request": "launch",
+      "mainClass": "customer.CustomerProfileView",
+      "projectName": "JAVA PROJECT_goodsDeliveryApplication"
+    },
+    {
+      "type": "java",
+      "name": "ProfileViewTest",
+      "request": "launch",
+      "mainClass": "main.ProfileViewTest",
+      "projectName": "JAVA PROJECT_goodsDeliveryApplication"
+    },
+    {
+      "type": "java",
+      "name": "GDAApplication",
+      "request": "launch",
+      "mainClass": "main.GDAApplication",
+      "projectName": "JAVA PROJECT_goodsDeliveryApplication"
+    },
+    {
+      "type": "java",
+      "name": "signup",
+      "request": "launch",
+      "mainClass": "userauthentication.signup",
+      "projectName": "JAVA PROJECT_goodsDeliveryApplication"
+    },
+    {
+      "type": "java",
+      "name": "signin",
+      "request": "launch",
+      "mainClass": "userauthentication.signin",
+      "projectName": "JAVA PROJECT_goodsDeliveryApplication"
+    },
+    {
+      "type": "java",
+      "name": "CustomerDashboard",
+      "request": "launch",
+      "mainClass": "customer.CustomerDashboard",
+      "projectName": "JAVA PROJECT_goodsDeliveryApplication"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "JAVA PROJECT_goodsDeliveryApplication"
+    },
+    {
+      "type": "java",
+      "name": "CustomerView",
+      "request": "launch",
+      "mainClass": "customer.CustomerView",
+      "projectName": "JAVA PROJECT_goodsDeliveryApplication"
+    },
+    {
+      "type": "java",
+      "name": "DriverView",
+      "request": "launch",
+      "mainClass": "driver.DriverView",
+      "projectName": "JAVA PROJECT_goodsDeliveryApplication"
+    },
+    {
+      "type": "java",
+      "name": "Customerview",
+      "request": "launch",
+      "mainClass": "customer.Customerview",
+      "projectName": "JAVA PROJECT_goodsDeliveryApplication"
+    },
+    {
+      "type": "java",
+      "name": "SchedulerView",
+      "request": "launch",
+      "mainClass": "scheduler.SchedulerView",
+      "projectName": "JAVA PROJECT_goodsDeliveryApplication"
+    },
+    {
+      "type": "java",
+      "name": "Schedulerview",
+      "request": "launch",
+      "mainClass": "scheduler.Schedulerview",
+      "projectName": "JAVA PROJECT_goodsDeliveryApplication"
+    },
+    {
+      "type": "java",
+      "name": "DriverView",
+      "request": "launch",
+      "mainClass": "driver.DriverView",
+      "projectName": "goodsDeliveryApplication_3f5cee0b"
+    },
+    {
+      "type": "java",
+      "name": "DriverMenuView",
+      "request": "launch",
+      "mainClass": "driver.DriverMenuView",
+      "projectName": "goodsDeliveryApplication_3f5cee0b"
+    },
+    {
+      "type": "java",
+      "name": "Schedulerview",
+      "request": "launch",
+      "mainClass": "scheduler.Schedulerview",
+      "projectName": "goodsDeliveryApplication_3f5cee0b"
+    },
+    {
+      "type": "java",
+      "name": "DeliveryStaffView",
+      "request": "launch",
+      "mainClass": "components.DeliveryStaffView",
+      "projectName": "goodsDeliveryApplication_3f5cee0b"
+    },
+    {
+      "type": "java",
+      "name": "Customercart",
+      "request": "launch",
+      "mainClass": "customer.Customercart",
+      "projectName": "goodsDeliveryApplication_3f5cee0b"
+    },
+    {
+      "type": "java",
+      "name": "Customerview",
+      "request": "launch",
+      "mainClass": "customer.Customerview",
+      "projectName": "goodsDeliveryApplication_3f5cee0b"
+    },
+    {
+      "type": "java",
+      "name": "signin",
+      "request": "launch",
+      "mainClass": "userauthentication.signin",
+      "projectName": "goodsDeliveryApplication_3f5cee0b"
+    },
+    {
+      "type": "java",
+      "name": "Customerview",
+      "request": "launch",
+      "mainClass": "userview.Customerview",
+      "projectName": "goodsDeliveryApplication_3f5cee0b"
+    },
+    {
+      "type": "java",
+      "name": "welcomePage",
+      "request": "launch",
+      "mainClass": "userauthentication.welcomePage",
+      "projectName": "goodsDeliveryApplication_3f5cee0b"
+    },
+    {
+      "type": "java",
+      "name": "signup",
+      "request": "launch",
+      "mainClass": "userauthentication.signup",
+      "projectName": "goodsDeliveryApplication_3f5cee0b"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/hp/Desktop/UNIVERSE/JAVA PROJECT/goodsDeliveryApplication/lib",
+      "program": "c:/Users/hp/Desktop/UNIVERSE/JAVA PROJECT/goodsDeliveryApplication/lib/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
